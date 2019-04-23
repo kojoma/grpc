@@ -53,9 +53,6 @@ coverage
 # Makefile's cache
 cache.mk
 
-# Ruby's local gem information
-Gemfile.lock
-
 # Temporary test reports
 report.xml
 */sponge_log.xml
